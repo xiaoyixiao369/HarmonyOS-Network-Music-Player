@@ -1,0 +1,41 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\XiaoYiXiao\\.ohos\\config\\auto_debug_HMNetworkMusicPlayer_com.example.hmnetworkmusicplayer_30086000758985525.cer",
+          "storePassword": "0000001A4AE15771FC4AEA5ACB0D067EE35DE9B046051B9582915710CFE1C2B28EA3A606955B81657AB8",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001AE50EA425A4D630FB7E134DAAA36F56266DFC96142A9899D86394A4DB0C5005249D94B80D107A",
+          "profile": "C:\\Users\\XiaoYiXiao\\.ohos\\config\\auto_debug_HMNetworkMusicPlayer_com.example.hmnetworkmusicplayer_30086000758985525.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\XiaoYiXiao\\.ohos\\config\\auto_debug_HMNetworkMusicPlayer_com.example.hmnetworkmusicplayer_30086000758985525.p12"
+        }
+      }
+    ],
+    "compileSdkVersion": 9,
+    "compatibleSdkVersion": 9,
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

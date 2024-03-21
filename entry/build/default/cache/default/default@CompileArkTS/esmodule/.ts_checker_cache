@@ -1,0 +1,211 @@
+{
+  "runtimeOS": "HarmonyOS",
+  "sdkInfo": "false:9:3.2.12.5:Release",
+  "fileList": {
+    "D:\\HarmonyOSProjects\\HMNetworkMusicPlayer\\entry\\src\\main\\ets\\entryability\\EntryAbility.ts": {
+      "mtimeMs": 1710986718868.3135,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\HarmonyOSProjects\\HMNetworkMusicPlayer\\entry\\src\\main\\ets\\pages\\Index.ets": {
+      "mtimeMs": 1711019259819.9167,
+      "children": [
+        "D:\\HarmonyOSProjects\\HMNetworkMusicPlayer\\entry\\src\\main\\ets\\components\\MiniPlayer.ets",
+        "D:\\HarmonyOSProjects\\HMNetworkMusicPlayer\\entry\\src\\main\\ets\\viewmodel\\Song.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.app.ability.UIAbility.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.app.ability.Ability.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.app.ability.Configuration.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\application\\UIAbilityContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\bundleManager\\AbilityInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\bundleManager\\ApplicationInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.bundle.bundleManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\bundleManager\\BundleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\bundleManager\\HapModuleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\bundleManager\\ExtensionAbilityInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\ability\\abilityResult.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\ability\\connectOptions.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.rpc.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\application\\Context.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.resourceManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\application\\ApplicationContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.app.ability.AbilityLifecycleCallback.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.window.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.multimedia.image.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.app.ability.EnvironmentCallback.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.app.ability.dialogRequest.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\HarmonyOSProjects\\HMNetworkMusicPlayer\\entry\\src\\main\\ets\\components\\MiniPlayer.ets": {
+      "mtimeMs": 1711018711360.5076,
+      "children": [],
+      "parent": [
+        "D:\\HarmonyOSProjects\\HMNetworkMusicPlayer\\entry\\src\\main\\ets\\pages\\Index.ets"
+      ],
+      "error": false
+    },
+    "D:\\HarmonyOSProjects\\HMNetworkMusicPlayer\\entry\\src\\main\\ets\\viewmodel\\Song.ets": {
+      "mtimeMs": 1710988393323.243,
+      "children": [],
+      "parent": [
+        "D:\\HarmonyOSProjects\\HMNetworkMusicPlayer\\entry\\src\\main\\ets\\pages\\Index.ets"
+      ],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.multimedia.media.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.multimedia.audio.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\canvas.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\common.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\component\\common.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\web.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.web.webview.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\matrix2d.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    }
+  }
+}
